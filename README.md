@@ -12,4 +12,4 @@ CREATE TABLE tb_usuario (
   senha varchar(120) CHARACTER SET utf8 NOT NULL
 );
 
-Se necessaário pode ser feito alterações no arquivo DB.php para conectar ao banco de dados.
+Se necessário pode ser feito alterações no arquivo DB.php para conectar ao banco de dados.
